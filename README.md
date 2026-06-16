@@ -9,7 +9,7 @@
 - [Project Introduction](#-project-introduction)
 - [Features](#ⓘ-features)
 - [Hardware & Software](#%EF%B8%8F-hardware--software)
-- [Voice Asisstant Architecture](#_-hydrosense-of-the-seas-architecture)
+- [Hydrosense of the Seas Architecture](#_-hydrosense-of-the-seas-architecture)
 - [Pin Connections](#-pin-connections)
 
 
