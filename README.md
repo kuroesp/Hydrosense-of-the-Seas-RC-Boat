@@ -9,8 +9,7 @@
 - [Project Introduction](#-project-introduction)
 - [Features](#ⓘ-features)
 - [Hardware & Software](#%EF%B8%8F-hardware--software)
-- [API AI Services](#-ai-api-services)
-- [Voice Asisstant Architecture](#_-voice-asisstant-architecture)
+- [Voice Asisstant Architecture](#_-hydrosense-of-the-seas-architecture)
 - [Pin Connections](#-pin-connections)
 
 
@@ -77,10 +76,8 @@ Another forward goes to lcd 16x2 to show realtime depth value.
 
 ### Breadboard - Sensor : 
 | Breadboard | PIN | Sensor |
-|-------|------------|
+|-------|------------|--|
 | RED | | VCC | I2C |
-
-
 
 
 ### HC-05 - Arduino Uno :
