@@ -12,7 +12,7 @@
 - [Hardware & Software](#%EF%B8%8F-hardware--software)
 - [Hydrosense of the Seas Architecture](#_-hydrosense-of-the-seas-architecture)
 - [Pin Connections](#-pin-connections)
-- [Documentations](#-documentations)
+- [Documentations](#documentations)
 
 
 ## Credits
