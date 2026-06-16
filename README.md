@@ -17,9 +17,20 @@
 
 ## Credits
 
-# - Ahmad Naufal Fadhlurrahman as Embedded Systems, Electronics Design, Software Development 
-# - Muhammad Zidane Sabri as Prototype Construction, Design & Material Selection, Concept Development
-# - Kahfi Krisna Yastara as Presentation Preparation, Procurement & Logistics, Concept Development
+### Ahmad Naufal Fadhlurrahman 
+- Embedded Systems
+- Electronics Design
+- Software Development
+
+### Muhammad Zidane Sabri 
+- Prototype Construction
+- Design & Material Selection
+- Concept Development
+
+### Kahfi Krisna Yastara 
+- Presentation Preparation
+- Procurement & Logistics
+- Concept Development
 
 ## 👨🏻‍💻 Why this project exists? 
 In archipelagic provinces like the Riau Islands, numerous natural beaches are formed, which often leads to a relatively high risk of tsunamis. Furthermore, waste drainage remains a persistent urban issue, and in recent years, the Riau Islands have experienced an increase in flood disaster hotspots. This has posed a challenge for SAR (Search and Rescue) volunteers due to the rising demand for personnel.
