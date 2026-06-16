@@ -68,23 +68,23 @@ Another forward goes to lcd 16x2 to show realtime depth value.
 
 ## 🔌 Pin Connections
 
+### Battery Lipo - Motor driver : 
+| Battery Lipo | Motor driver Pin |  Descriptions |
+|-------|------------|-------|
+| + | 12V |  |
+| - | GND | Breadboard & Motor Driver |
+
 ### Arduino Uno - Breadboard : 
 | Arduino Uno | Breadboard | 
 |-------|------------|
 | 5V | First Red Rail |
 | GND | First Blue Rail | 
 
-### Breadboard - Sensor : 
-| Breadboard | PIN | Sensor |
-|-------|------------|--|
-| RED | | VCC | I2C |
-
-
 ### HC-05 - Arduino Uno :
 | HC-05 Pin | Arduino Uno Pin | Descriptions |
 |------------|-----------|--------------|
-| VCC | 5V |  | 
-| GND | GND |  | 
+| VCC | RED | Breadboard | 
+| GND | BLUE | Breadboard | 
 | RX | 10 |  | 
 | TX | 11 |  | 
 
@@ -95,13 +95,37 @@ Another forward goes to lcd 16x2 to show realtime depth value.
 | IN2 | 3 |  | 
 | IN3 | 4 |  | 
 | IN4 | 5 |  | 
+| ENA | 6 | Kecepatan propeller kanan |
+| ENB | 9 | Kecepatan propeller kiri | 
 | GND | GND |  | 
 | 12v | Vin |  | 
+
+### Ultrasonic Sensor - Arduino Uno :
+|Ultrasonic Sensor Pin | Arduino Uno Pin | Descriptions |
+|------------|-----------|--------------|
+| Trig | 7 |  | 
+| Echo | 8 |  | 
+| Vcc | RED | Bredboard | 
+| GND | BLUE | Breadboard | 
+
+### Potensiometer - Arduino Uno :
+|Potensiometer Pin | Arduino Uno Pin | Descriptions |
+|------------|-----------|--------------|
+| Ouput | A0 |  | 
+| VCC | RED | Breadboard | 
+| GND | BLUE | Breadboard | 
+
+### Buzzer - Arduino Uno :
+|Buzzer Pin | Arduino Uno Pin | Descriptions |
+|------------|-----------|--------------|
+| + | 13 |  | 
+| - | BLUE | Breadboard | 
 
 ### I2C Module - Arduino Uno :
 | I2C Module Pin | Arduino Uno Pin | Descriptions |
 |------------|-----------|--------------|
-| GND | GND |  | 
+| VCC | 5V | Arduino langsung | 
+| GND | GND | Arduino langsung | 
 | A4 | SDA |  | 
 | A5 | SCL |  | 
 
