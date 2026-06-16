@@ -46,6 +46,7 @@ In general, the Hydrosense of the Seas RC boat serves as a tool to enhance the c
 - Potensiometer
 - Wire : (Male to Male), (Male to Female)
 - USB Cable
+- Switch Button
 - Breadboard (Terminal)
 - Impraboard (Base)
 - Plastic Base (Inner base)
@@ -132,7 +133,20 @@ Another forward goes to lcd 16x2 to show realtime depth value.
 
 ## DOCUMENTATIONS 
 
-FIRST PROTOTYPE : 
+### FIRST PROTOTYPE : 
+
+https://drive.google.com/drive/folders/1AatNiTcXAbDibuHpVddpoUjBiqA5ix4g
+
+### SECOND PROTOTYPE :
+
+https://drive.google.com/drive/folders/1MQI0X5ilB5VLo69s7FkjG5SL-NcWidB2
+https://drive.google.com/file/d/1h1E1dJRYcWJ5aRMtJ2EmWOBlJ1g6W49s/view?usp=drivesdk
+
+### ON PROGRESS : 
+
+https://drive.google.com/drive/folders/12ok7Hywe2sDSORZXjv2CAVf-IzG0bS-u
+
+
 
 
 
