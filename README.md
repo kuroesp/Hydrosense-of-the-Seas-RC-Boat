@@ -5,14 +5,21 @@
 </div>
 
 ## ✨ Table of Contents
+- [Credits](#-credits)
 - [Why this project exists?](#%E2%80%8D-why-this-project-exists)
 - [Project Introduction](#-project-introduction)
 - [Features](#ⓘ-features)
 - [Hardware & Software](#%EF%B8%8F-hardware--software)
 - [Hydrosense of the Seas Architecture](#_-hydrosense-of-the-seas-architecture)
 - [Pin Connections](#-pin-connections)
-- [Documentations](#-d)
+- [Documentations](#-documentations)
 
+
+## Credits
+
+### - Ahmad Naufal Fadhlurrahman as Embedded Systems, Electronics Design, Software Development 
+### - Muhammad Zidane Sabri as Prototype Construction, Design & Material Selection, Concept Development
+### - Kahfi Krisna Yastara as Presentation Preparation, Procurement & Logistics, Concept Development
 
 ## 👨🏻‍💻 Why this project exists? 
 In archipelagic provinces like the Riau Islands, numerous natural beaches are formed, which often leads to a relatively high risk of tsunamis. Furthermore, waste drainage remains a persistent urban issue, and in recent years, the Riau Islands have experienced an increase in flood disaster hotspots. This has posed a challenge for SAR (Search and Rescue) volunteers due to the rising demand for personnel.
