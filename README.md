@@ -2,12 +2,15 @@
   
   # 🤖 Hydrosense of the Seas RC Boat
   ### Real-time Automatic Sensor Depth 
+  
+  
+  <img src="img/preview.jpg" width="400">
 
   
 </div>
 
 ## ✨ Table of Contents
-- [Credits](#-credits)
+- [Credits](#credits-ak-zonix-marine)
 - [Why this project exists?](#%E2%80%8D-why-this-project-exists)
 - [Project Introduction](#-project-introduction)
 - [Features](#ⓘ-features)
@@ -17,7 +20,7 @@
 - [Documentations](#documentations)
 
 
-## Credits
+## Credits AK-Zonix Marine
 
 ### Ahmad Naufal Fadhlurrahman 
 - Embedded Systems
