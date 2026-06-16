@@ -149,7 +149,7 @@ Another forward goes to lcd 16x2 to show realtime depth value.
 | A4 | SDA |  | 
 | A5 | SCL |  | 
 
-## DOCUMENTATIONS 
+## Documentations 
 
 ### FIRST PROTOTYPE : 
 
