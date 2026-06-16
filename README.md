@@ -55,7 +55,7 @@ In general, the Hydrosense of the Seas RC boat serves as a tool to enhance the c
 - MIT APP INVENTOR
 
 
-## >_ Voice Asisstant Architecture
+## >_ Hydrosense of the Seas Architecture
 - SETUP : When system get power supply from USB or battery, Script will be setup program.
 - CONNECT THE BLUETOOTH : Connect your smartphone into HC-05 Bluetooth
 - RELEASE TRIG : After setup ready, ultrasonic sensor will release Trig signal in front of sensor
@@ -70,28 +70,43 @@ Another forward goes to lcd 16x2 to show realtime depth value.
 ## 🔌 Pin Connections
 
 ### Arduino Uno - Breadboard : 
-| EPS32 | Breadboard | 
+| Arduino Uno | Breadboard | 
 |-------|------------|
-| VIN | First Red Rail |
+| 5V | First Red Rail |
 | GND | First Blue Rail | 
+
+### Breadboard - Sensor : 
+| Breadboard | PIN | Sensor |
+|-------|------------|
+| RED | | VCC | I2C |
+
+
+
+
+### HC-05 - Arduino Uno :
+| HC-05 Pin | Arduino Uno Pin | Descriptions |
+|------------|-----------|--------------|
+| VCC | 5V |  | 
+| GND | GND |  | 
+| RX | 10 |  | 
+| TX | 11 |  | 
 
 ### Motor Driver - Arduino Uno :
 |Motor Driver Pin | Arduino Uno Pin | Descriptions |
 |------------|-----------|--------------|
-| VDD | 3.3V | Do not 5V! | 
-| GND | GND | Put in Breadboard | 
-| L/R | GND | Left Channel Select, put in Breadboard | 
-| SD | D32 | Serial Data | 
-| WS | D15 | L/R Clock | 
-| SCK | D14 | Serial Clock | 
+| IN1 | 2 |  | 
+| IN2 | 3 |  | 
+| IN3 | 4 |  | 
+| IN4 | 5 |  | 
+| GND | GND |  | 
+| 12v | Vin |  | 
 
-### Buck Converter - LiPo Battery : 
-|Buck converter Pin | Lipo Battery | Description | 
-|---------------------|-----------|-------------|
-| VCC | VIN | Put in Breadboard |
-| GND | GND | Put in Breadboard | 
-| CS | D5 | Card Data |
-| MISO | D19 | Output data |
-| MOSI | D23 | Input data |
-| SCK | D18 | Serial Clock |
+### I2C Module - Arduino Uno :
+| I2C Module Pin | Arduino Uno Pin | Descriptions |
+|------------|-----------|--------------|
+| GND | GND |  | 
+| A4 | SDA |  | 
+| A5 | SCL |  | 
+
+
 
