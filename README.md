@@ -17,6 +17,7 @@
 - [Hardware & Software](#%EF%B8%8F-hardware--software)
 - [Hydrosense of the Seas Architecture](#_-hydrosense-of-the-seas-architecture)
 - [Pin Connections](#-pin-connections)
+- [Achivement](#achivement)
 - [Documentations](#documentations)
 
 
@@ -153,6 +154,11 @@ Another forward goes to lcd 16x2 to show realtime depth value.
 | GND | GND | Arduino langsung | 
 | A4 | SDA |  | 
 | A5 | SCL |  | 
+
+
+## Achivement 
+
+https://drive.google.com/drive/folders/1g65EMRc997RGr9DAN_BnfbOpw7dR_MsL?usp=drive_link
 
 ## Documentations 
 
